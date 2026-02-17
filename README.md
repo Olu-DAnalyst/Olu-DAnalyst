@@ -1,8 +1,38 @@
-# 📊 Data Analytics Portfolio – Oluwasegun Balogun
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Data%20Analytics%20Portfolio%20–%20Oluwasegun%20Balogun&fontSize=30&fontAlignY=50"/>
+</p>
 
-Transforming data into actionable insights and meaningful business decisions.
+<p align="center">
+  Transforming data into actionable insights and meaningful business decisions.
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=3000&color=0077B5&center=true&vCenter=true&width=500&lines=Data+Analyst;SQL+%7C+Power+BI+%7C+Excel;Dashboard+Developer;Turning+Data+into+Insights">
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oluwasegun-balogun">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  
+  <a href="mailto:segbalogun@yahoo.com">
+    <img src="https://img.shields.io/badge/Yahoo-Mail-purple?style=for-the-badge&logo=yahoo"/>
+  </a>
+
+  <a href="https://github.com/Olu-DAnalyst">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 
 ## 👨‍💼 About Me
 
