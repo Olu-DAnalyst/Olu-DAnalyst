@@ -1,3 +1,4 @@
+# 📊 Data Analytics Portfolio – Oluwasegun Balogun
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Data%20Analytics%20Portfolio%20–%20Oluwasegun%20Balogun&fontSize=30&fontAlignY=50"/>
 </p>
