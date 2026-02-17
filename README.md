@@ -1,41 +1,68 @@
-# Oluwasegun Balogun – Data Analyst Portfolio
+# 📊 Data Analytics Portfolio – Oluwasegun Balogun
 
-Welcome to my Data Analytics Portfolio.
+Transforming data into actionable insights and meaningful business decisions.
 
-I am a Data Analyst skilled in:
+---
+
+## 👨‍💼 About Me
+
+I am a Data Analyst skilled in analysing data, building dashboards, and generating insights that support business decision-making.
+
+I specialise in:
+
+- 🧹 Data Cleaning
+- 📊 Data Analysis
+- 📈 Dashboard Creation
+- 🧠 Business Insights
+- 📉 Data Visualisation
+
+---
+
+## 🛠️ Tools & Skills
 
 - SQL
 - Excel
 - Power BI
-- Python (learning)
-
-I specialise in:
-
-- Data Cleaning
-- Data Analysis
-- Dashboard Creation
-- Business Insights
+- Python (Learning)
+- Tableau
 
 ---
 
-## Tools & Skills
+## 📁 Portfolio Projects
 
-SQL | Excel | Power BI | Python | Tableau
+This portfolio showcases my projects using real-world datasets.
+
+### SQL Projects
+- Customer Sales Analysis
+- Data Cleaning and Transformation
+- Business Insights using SQL
+
+### Excel Projects
+- Sales Dashboard
+- Financial Analysis Dashboard
+
+### Power BI Projects
+- Retail Sales Dashboard
+- Business Performance Dashboard
 
 ---
 
-## Portfolio Projects
+## 🎯 What I Do
 
-This portfolio contains projects demonstrating my skills in:
+I help organisations make data-driven decisions by:
 
-- SQL Analysis
-- Excel Dashboards
-- Power BI Dashboards
-- Data Cleaning
-- Business Analysis
+- Analysing trends
+- Building dashboards
+- Identifying business opportunities
+- Presenting insights clearly
 
 ---
 
-## Contact
+## 📬 Connect with Me
 
-Email: segbalogun@yahoo.com
+- Email: segbalogun@yahoo.com  
+- LinkedIn: https://linkedin.com/in/oluwasegun-balogun  
+
+---
+
+⭐ This GitHub contains my Data Analytics Portfolio projects.
