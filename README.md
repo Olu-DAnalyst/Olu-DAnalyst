@@ -1,16 +1,41 @@
-## Hi there 👋
+# Oluwasegun Balogun – Data Analyst Portfolio
 
-<!--
-**Olu-DAnalyst/Olu-DAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Data Analytics Portfolio.
 
-Here are some ideas to get you started:
+I am a Data Analyst skilled in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Excel
+- Power BI
+- Python (learning)
+
+I specialise in:
+
+- Data Cleaning
+- Data Analysis
+- Dashboard Creation
+- Business Insights
+
+---
+
+## Tools & Skills
+
+SQL | Excel | Power BI | Python | Tableau
+
+---
+
+## Portfolio Projects
+
+This portfolio contains projects demonstrating my skills in:
+
+- SQL Analysis
+- Excel Dashboards
+- Power BI Dashboards
+- Data Cleaning
+- Business Analysis
+
+---
+
+## Contact
+
+Email: segbalogun@yahoo.com
