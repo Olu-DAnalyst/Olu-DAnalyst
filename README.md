@@ -64,6 +64,8 @@ Beyond technical skills, I focus on combining **analytical thinking with storyte
 
 ---
 
+---
+
 ## 🛠️ Tools & Technologies
 
 Here are the tools I use to explore, model, and visualise data effectively:
@@ -78,19 +80,18 @@ Here are the tools I use to explore, model, and visualise data effectively:
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-2F4F4F?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ERD%20Modelling-FF6F00?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ERD%20Modelling-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Generative%20AI%20Projects-6A5ACD?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI%20Projects-6A5ACD?style=for-the-badge&logo=
 
-</p>
-
----
 
 
 
