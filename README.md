@@ -8,9 +8,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=3000&color=0077B5&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Oluwasegun+Balogun;Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Tableau+%7C+Python;Dashboard+Developer;Turning+Data+into+Actionable+Insights">
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=3000&color=0077B5&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Oluwasegun+Balogun;Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Tableau+%7C+Python;Dashboard+Developer;Turning+Data+into+Actionable+Insights)
 
 
 ---
