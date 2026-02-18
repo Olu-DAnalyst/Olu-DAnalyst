@@ -128,7 +128,6 @@ This portfolio showcases my projects using real-world datasets.
 - Business Performance Dashboard
 
 ---
- ---
 
 ---
 
@@ -151,8 +150,6 @@ This portfolio showcases my projects using real-world datasets.
 <a href="#-python-projects">
   <img src="https://img.shields.io/badge/Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
-
-<br/><br/>
 
 <a href="#-tableau-projects">
   <img src="https://img.shields.io/badge/Tableau%20Projects-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
