@@ -41,17 +41,22 @@
 
 ---
 
-## 👨‍💼 About Me
+---
 
-I am a Data Analyst skilled in analysing data, building dashboards, and generating insights that support business decision-making.
+## 🙋‍♂️ About Me | Data Analyst & Insight Catalyst
 
-I specialise in:
+👋 Hi, I'm Oluwasegun — a Data Analyst passionate about transforming raw data into meaningful insights that drive smarter business decisions.
 
-- 🧹 Data Cleaning
-- 📊 Data Analysis
-- 📈 Dashboard Creation
-- 🧠 Business Insights
-- 📉 Data Visualisation
+This portfolio showcases my **data analytics journey**, from data cleaning and transformation to building interactive dashboards and delivering actionable insights.
+
+Each project demonstrates my ability to:
+
+- Analyse complex datasets  
+- Build professional dashboards  
+- Identify trends and patterns  
+- Translate data into business value  
+
+Beyond technical skills, I focus on combining **analytical thinking with storytelling** to help organisations understand their data and make confident, data-driven decisions.
 
 ---
 
