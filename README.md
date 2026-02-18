@@ -128,7 +128,16 @@ This portfolio showcases my projects using real-world datasets.
 - Business Performance Dashboard
 
 ---
- 
+ ---
+
+# 📑 Main Table of Contents
+
+- 🟢 [Excel Projects](#-excel-projects)
+- 🟡 [Power BI Projects](#-power-bi-projects)
+- 🔵 [Python Projects](#-python-projects)
+
+---
+
 
 ---
 
