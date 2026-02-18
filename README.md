@@ -1,17 +1,19 @@
+<!-- Professional Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=📊Data%20Analytics%20Portfolio%20–%20Oluwasegun%20Balogun&fontSize=30&fontAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00ADEF&height=160&section=header&text=Oluwasegun%20Balogun&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- Professional Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=5000&pause=1200&color=0077B5&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Dashboard+Developer;Transforming+Data+into+Actionable+Insights"/>
 </p>
 
 <p align="center">
-  Transforming data into actionable insights and meaningful business decisions.
+  <b>Transforming data into actionable insights and meaningful business decisions</b>
 </p>
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=3000&color=0077B5&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Oluwasegun+Balogun;Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Tableau+%7C+Python;Dashboard+Developer;Turning+Data+into+Actionable+Insights)
-
-
----
 
 ## 📬 Connect with Me
 
