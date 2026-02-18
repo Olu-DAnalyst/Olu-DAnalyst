@@ -15,25 +15,23 @@
 ---
 
 
-## 📬 Connect with Me
+<h3 align="center">Connect with Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oluwasegun-balogun">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:segbalogun@yahoo.com">
-    <img src="https://img.shields.io/badge/Yahoo-Mail-purple?style=for-the-badge&logo=yahoo"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/Olu-DAnalyst">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
 
 ## 👨‍💼 About Me
 
