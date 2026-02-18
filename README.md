@@ -1,6 +1,6 @@
 <!-- Professional Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00ADEF&height=160&section=header&text=Oluwasegun%20Balogun&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00ADEF&height=160&section=header&text=📊Oluwasegun%20Balogun&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <!-- Professional Typing Animation -->
