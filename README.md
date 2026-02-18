@@ -60,14 +60,6 @@ Beyond technical skills, I focus on combining **analytical thinking with storyte
 
 ---
 
----
-
----
-
----
-
----
-
 ## 🛠️ Tools & Technologies
 
 Here are the tools I use to explore, model, and visualise data effectively:
