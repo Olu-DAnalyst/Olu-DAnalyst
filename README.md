@@ -128,9 +128,6 @@ This portfolio showcases my projects using real-world datasets.
 - Business Performance Dashboard
 
 ---
-
----
-
 # 🚀 Portfolio Navigation Panel
 
 <p align="center">
