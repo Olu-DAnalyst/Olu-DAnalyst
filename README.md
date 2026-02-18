@@ -130,13 +130,54 @@ This portfolio showcases my projects using real-world datasets.
 ---
  ---
 
-# 📑 Main Table of Contents
+---
 
-- 🟢 [Excel Projects](#-excel-projects)
-- 🟡 [Power BI Projects](#-power-bi-projects)
-- 🔵 [Python Projects](#-python-projects)
+# 🚀 Portfolio Navigation Panel
+
+<p align="center">
+
+<a href="#-excel-projects">
+  <img src="https://img.shields.io/badge/Excel%20Projects-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</a>
+
+<a href="#-power-bi-projects">
+  <img src="https://img.shields.io/badge/Power%20BI%20Projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</a>
+
+<a href="#-sql-projects">
+  <img src="https://img.shields.io/badge/SQL%20Projects-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="#-python-projects">
+  <img src="https://img.shields.io/badge/Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="#-tableau-projects">
+  <img src="https://img.shields.io/badge/Tableau%20Projects-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</a>
+
+<a href="#-erd-modelling-projects">
+  <img src="https://img.shields.io/badge/ERD%20Modelling-FF6F00?style=for-the-badge"/>
+</a>
+
+<a href="#-generative-ai-projects">
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+</a>
+
+<a href="#-chatgpt--ai-tools-projects">
+  <img src="https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+</a>
+
+<a href="#-microsoft-fabric-projects">
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</a>
+
+</p>
 
 ---
+
 
 
 ---
