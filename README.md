@@ -41,8 +41,6 @@
 
 ---
 
----
-
 ## 🙋‍♂️ About Me | Data Analyst & Insight Catalyst
 
 👋 Hi, I'm Oluwasegun — a Data Analyst passionate about transforming raw data into meaningful insights that drive smarter business decisions.
