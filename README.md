@@ -128,22 +128,7 @@ This portfolio showcases my projects using real-world datasets.
 - Business Performance Dashboard
 
 ---
-
-## 🎯 What I Do
-
-I help organisations make data-driven decisions by:
-
-- Analysing trends
-- Building dashboards
-- Identifying business opportunities
-- Presenting insights clearly
-
----
-
-## 📬 Connect with Me
-
-- Email: segbalogun@yahoo.com  
-- LinkedIn: https://linkedin.com/in/oluwasegun-balogun  
+ 
 
 ---
 
