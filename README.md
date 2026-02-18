@@ -90,7 +90,8 @@ Here are the tools I use to explore, model, and visualise data effectively:
 
 <img src="https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Generative%20AI%20Projects-6A5ACD?style=for-the-badge&logo=
+<img src="https://img.shields.io/badge/Generative%20AI%20Projects-6A5ACD?style=for-the-badge&logo=google&logoColor=white"/>
+
 
 
 
