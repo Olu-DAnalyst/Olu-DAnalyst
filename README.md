@@ -14,6 +14,14 @@
 
 ---
 
+<p align="center">
+  <i>
+  I help organisations make smarter decisions by analysing data, building dashboards, and telling stories with numbers. Explore my projects to see how I leverage data, visualisation, and analytics tools to solve real-world problems.
+  </i>
+</p>
+
+---
+
 
 <h3 align="center">Connect with Me</h3>
 
