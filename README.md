@@ -5,7 +5,7 @@
 
 <!-- Professional Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=5000&pause=1200&color=0077B5&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Dashboard+Developer;Transforming+Data+into+Actionable+Insights"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=4000&pause=1200&color=0077B5&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Dashboard+Developer;I+LOVE+Transforming+Data+into+Actionable+Insights"/>
 </p>
 
 <p align="center">
