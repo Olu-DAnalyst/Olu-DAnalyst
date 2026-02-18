@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=3000&color=0077B5&center=true&vCenter=true&width=500&lines=Data+Analyst;SQL+%7C+Power+BI+%7C+Excel;Dashboard+Developer;Turning+Data+into+Insights">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=20&duration=3000&color=0077B5&center=true&vCenter=true&width=500&lines=Hi,I'm Olu-DAnalyst Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+Tableau+Python+Dashboard+Developer;I love Turning+Data+into+ActioableInsights">
 </p>
 
 ---
