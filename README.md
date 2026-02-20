@@ -95,9 +95,8 @@ Developed interactive dashboards analyzing pharmaceutical sales performance, pro
 <a href="#-sql-projects">
   <img src="https://img.shields.io/badge/SQL%20Projects-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
-
 <br/><br/>
-
+<p align="center">
 <a href="#-tableau-projects">
   <img src="https://img.shields.io/badge/Tableau%20Projects-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </a>
