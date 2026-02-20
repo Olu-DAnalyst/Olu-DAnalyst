@@ -65,18 +65,65 @@ Here are the tools I use to explore, model, and visualise data effectively:
 
 ## 💊 NovaMed Pharmaceutical Sales Analytics
 
-**Tools:** Power BI | DAX | Data Modeling | Excel  
+**Tools:** Power BI | DAX | Data Modeling | Excel | KPI Development  
 
-Developed interactive dashboards analyzing pharmaceutical sales performance, profitability, and regional trends.
+### 📌 Project Overview
+Designed and developed an executive-level Power BI dashboard analyzing pharmaceutical sales performance, product profitability, and regional revenue trends across a multi-year dataset.
 
-**Impact:**
-- Identified top-performing product categories
-- Improved KPI visibility
-- Enabled executive-level decision making
+### 🔍 Key Responsibilities
+- Cleaned and transformed 50,000+ transactional sales records  
+- Built optimized star-schema data model for performance efficiency  
+- Developed 20+ DAX measures for revenue, profit margin, YoY growth, and KPI tracking  
+- Designed drill-through dashboards for region, product, and sales rep analysis  
 
-📊 *Dashboard Preview:*
+### 📊 Key Insights Delivered
+- Identified that 18% of products generated 67.4% of total revenue  
+- Discovered a 12.6% decline in quarterly growth in two underperforming regions  
+- Revealed high-margin specialty drugs contributing 34% higher profit margins than general products  
 
-🔗 [View Project](https://github.com/Olu-DAnalyst/StreamWorks-Customer-Churn-Analysis)
+### 📈 Business Impact
+- Improved executive reporting efficiency by 40% through centralized KPI dashboards  
+- Enabled sales prioritization toward high-margin product lines  
+- Supported strategic regional reallocation based on performance trends  
+
+📊 **Dashboard Preview:**  
+(Add your screenshot here)
+
+🔗 **View Full Project:**  
+https://github.com/Olu-DAnalyst/NovaMed-Pharmaceutical-Sales-Analytics
+
+---
+
+## 📉 StreamWorks Customer Churn Analysis
+
+**Tools:** Python | SQL | Statistical Analysis | Predictive Modeling | A/B Testing  
+
+### 📌 Project Overview
+Conducted end-to-end churn analysis to identify behavioral drivers of customer attrition and develop predictive insights for retention strategy.
+
+### 🔍 Key Responsibilities
+- Analyzed 7,000+ customer records using Python (Pandas, NumPy, Matplotlib)  
+- Performed exploratory data analysis and correlation analysis  
+- Built logistic regression model to predict churn probability  
+- Evaluated model using accuracy, precision, recall, and ROC-AUC metrics  
+
+### 📊 Key Insights Delivered
+- Found customers on month-to-month contracts had 3.2x higher churn probability  
+- Identified high monthly charges (> £75) increased churn likelihood by 28%  
+- Achieved 81% model accuracy with strong recall for at-risk customers  
+
+### 📈 Business Impact
+- Enabled targeted retention campaigns for high-risk segments  
+- Provided pricing strategy insights to reduce churn risk  
+- Demonstrated potential to reduce churn by an estimated 9–12% with proactive intervention  
+
+📊 **Model Output Preview:**  
+(Add your screenshot here)
+
+🔗 **View Full Project:**  
+https://github.com/Olu-DAnalyst/StreamWorks-Customer-Churn-Analysis
+
+---
 
 ---
 
