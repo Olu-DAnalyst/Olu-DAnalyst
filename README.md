@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00ADEF&height=170&section=header&text=Oluwasegun%20Balogun&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00ADEF&height=170&section=header&text=📊Oluwasegun%20Balogun&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -10,11 +10,12 @@
 
 ---
 
-## 📌 Professional Summary
+## 🎯 Executive Value Statement
 
-Results-driven **Data Analyst** with expertise in **SQL, Power BI, Excel, Python, Tableau, Microsoft Fabric, ERD Modelling, Predictive Analytics, KPI Development, A/B Testing, and Generative AI**.
+I help organisations transform complex datasets into strategic business decisions.
+As a Data Analyst specialising in Business Intelligence, Predictive Analytics, and Performance Optimization, I design data solutions that improve revenue visibility, reduce operational inefficiencies, and support executive decision-making.
 
-Experienced in transforming raw data into business intelligence solutions that support data-driven decision-making across sales, healthcare, logistics, and retail industries.
+My work bridges the gap between raw data and business strategy.
 
 ---
 
@@ -32,15 +33,31 @@ Experienced in transforming raw data into business intelligence solutions that s
 ---
 
 ## 🛠️ Technical Skillset
-
+Here are the tools I use to explore, model, and visualise data effectively:
 ### 📊 Data Analysis & Visualization
-Power BI (Expert) • SQL (Expert) • Excel (Expert) • Tableau (Expert) • Statistical Analysis (Expert)
-
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-Expert-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-Expert-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistical%20Analysis-Expert-6A5ACD?style=for-the-badge"/>
+</p>
+---
 ### 🤖 Programming & AI
-Python (Intermediate) • Generative AI (Intermediate) • ChatGPT & AI Tools (Expert)
-
+<p>
+<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-Intermediate-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Expert-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+---
 ### 📈 Business Intelligence & Analytics
-A/B Testing (Expert) • Predictive Modelling (Expert) • ERD Modelling (Expert) • KPI Development (Expert) • Microsoft Fabric (Expert)
+<p>
+<img src="https://img.shields.io/badge/A%2FB%20Testing-Expert-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Predictive%20Modelling-Expert-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ERD%20Modelling-Expert-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI%20Development-Expert-2E8B57?style=for-the-badge"/>
+</p>
+
 
 ---
 
@@ -117,9 +134,6 @@ Developed interactive dashboards analyzing pharmaceutical sales performance, pro
 (Add your SQL projects here)
 
 ---
-
-## 🐍 Python Projects
-(Add your Python projects here)
 
 ---
 
