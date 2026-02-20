@@ -25,19 +25,6 @@ My work bridges the gap between raw data and business strategy.
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/oluwasegun-balogun">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:segbalogun@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Technical Skillset
 Here are the tools I use to explore, model, and visualise data effectively:
 ### 📊 Data Analysis & Visualization
@@ -109,10 +96,6 @@ Developed interactive dashboards analyzing pharmaceutical sales performance, pro
   <img src="https://img.shields.io/badge/SQL%20Projects-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 
-<a href="#-python-projects">
-  <img src="https://img.shields.io/badge/Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-
 <br/><br/>
 
 <a href="#-tableau-projects">
@@ -143,8 +126,6 @@ Developed interactive dashboards analyzing pharmaceutical sales performance, pro
 
 ## 🔵 SQL Projects
 (Add your SQL projects here)
-
----
 
 ---
 
