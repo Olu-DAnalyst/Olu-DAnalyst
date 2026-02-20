@@ -41,21 +41,26 @@ Here are the tools I use to explore, model, and visualise data effectively:
 <img src="https://img.shields.io/badge/Tableau-Expert-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Statistical%20Analysis-Expert-6A5ACD?style=for-the-badge"/>
 </p>
+
 ---
- 🤖 **Programming & AI**
+
+### 🤖 Programming & AI
 <p>
 <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Generative%20AI-Intermediate-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Expert-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
+
 ---
-📈 **Business Intelligence & Analytics**
+
+### 📈 Business Intelligence & Analytics
 <p>
 <img src="https://img.shields.io/badge/A%2FB%20Testing-Expert-FF6F61?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Predictive%20Modelling-Expert-1E90FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ERD%20Modelling-Expert-FF8C00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/KPI%20Development-Expert-2E8B57?style=for-the-badge"/>
 </p>
+
 
 
 ---
