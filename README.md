@@ -3,7 +3,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00ADEF&height=170&section=header&text=📊Oluwasegun%20Balogun&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=5000&pause=1200&color=0077B5&center=true&vCenter=true&width=750&lines=Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Python+%7C+Tableau;Business+Intelligence+Specialist;Turning+Data+into+Actionable+Insights;Building+Data-Driven+Solutions"/>
 </p>
