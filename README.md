@@ -56,7 +56,6 @@ Here are the tools I use to explore, model, and visualise data effectively:
 </p>
 
 
-
 ---
 
 # ⭐ Featured Projects
