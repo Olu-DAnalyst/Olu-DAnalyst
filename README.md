@@ -63,34 +63,135 @@ Here are the tools I use to explore, model, and visualise data effectively:
 
 ---
 
-## 💊 NovaMed Pharmaceutical Sales Analytics
+# 📊 AfriTech Brand Intelligence & Crisis Monitoring System
 
-**Tools:** Power BI | DAX | Data Modeling | Excel | KPI Development  
+An end-to-end Business Intelligence solution integrating **Excel, SQL, and Power BI** to monitor brand sentiment, customer engagement, sales performance, and crisis management metrics.
 
-### 📌 Project Overview
-Designed and developed an executive-level Power BI dashboard analyzing pharmaceutical sales performance, product profitability, and regional revenue trends across a multi-year dataset.
+---
 
-### 🔍 Key Responsibilities
-- Cleaned and transformed 50,000+ transactional sales records  
-- Built optimized star-schema data model for performance efficiency  
-- Developed 20+ DAX measures for revenue, profit margin, YoY growth, and KPI tracking  
-- Designed drill-through dashboards for region, product, and sales rep analysis  
+## 🎯 Business Challenge
 
-### 📊 Key Insights Delivered
-- Identified that 18% of products generated 67.4% of total revenue  
-- Discovered a 12.6% decline in quarterly growth in two underperforming regions  
-- Revealed high-margin specialty drugs contributing 34% higher profit margins than general products  
+AfriTech Electronics Ltd. faced:
 
-### 📈 Business Impact
-- Improved executive reporting efficiency by 40% through centralized KPI dashboards  
-- Enabled sales prioritization toward high-margin product lines  
-- Supported strategic regional reallocation based on performance trends  
+- Increasing negative social media sentiment
+- Rising product recalls
+- Customer dissatisfaction (NPS decline)
+- Slower crisis response times
+- Competitive market pressure
 
-📊 **Dashboard Preview:**  
-(Add your screenshot here)
+Leadership required a centralized analytics system to monitor brand health and customer risk indicators in real time.
 
-🔗 **View Full Project:**  
-https://github.com/Olu-DAnalyst/NovaMed-Pharmaceutical-Sales-Analytics
+---
+
+## 🛠 Technology Stack
+
+- Excel – Data cleaning & preprocessing  
+- SQL – Data extraction & transformation  
+- Power BI – Interactive dashboard development  
+- KPI Framework Design  
+
+---
+
+# 📂 Dashboard Architecture
+
+The solution consists of four interactive dashboard pages:
+
+---
+
+## 🏠 1. Executive Overview
+
+**Key KPIs:**
+- $37.5M Total Revenue  
+- 74K Total Interactions  
+- 37K Competitor Mentions  
+- 25K Total Recalls  
+- 190 Days Avg Response Time  
+- NPS Score: 5.0  
+
+Provided leadership with real-time brand performance visibility.
+
+---
+
+## 👥 2. Customer & Sales Insights
+
+- 48K Transactions analyzed  
+- Revenue trend analysis (2021–2023)  
+- MoM Growth tracking (+0.25%)  
+- Revenue by product category (Laptop leading at $15.9M)  
+- Customer segmentation (New, Returning, VIP)  
+- Top 10 regions by revenue  
+
+Identified high-value customer segments and underperforming regions.
+
+---
+
+## 🌍 3. Brand & Social Media Analytics
+
+- 37M Comments analyzed  
+- 181M Likes  
+- 74M Shares  
+- Sentiment breakdown:
+  - Positive: 36.37%
+  - Neutral: 35.78%
+  - Negative: 27.85%
+
+Key Insight:
+Brand mentions often referenced competitors, but sentiment remained largely positive/neutral.
+
+Enabled proactive brand monitoring and engagement strategy.
+
+---
+
+## 🚨 4. Crisis & Complaints Intelligence
+
+- 25K Product Recalls  
+- 7K Unresolved Crises  
+- Avg Response Time increased from 188 → 192 days  
+- Top recall regions identified (Montana, Nebraska, West Virginia)
+
+Highlighted operational inefficiencies in recall resolution and crisis response handling.
+
+---
+
+# 📈 Strategic Impact
+
+✔ Centralized brand health monitoring  
+✔ Identified high-risk product lines  
+✔ Enabled faster executive reporting  
+✔ Provided actionable insights for retention strategy  
+✔ Supported competitive positioning analysis  
+
+---
+
+# 🖼 Dashboard Previews
+
+## Executive Overview
+![Executive Overview](images/executive-overview.png)
+
+## Customer & Sales
+![Customer & Sales](images/customer-sales.png)
+
+## Brand & Social
+![Brand & Social](images/brand-social.png)
+
+## Crisis & Complaints
+![Crisis & Complaints](images/crisis-complaints.png)
+
+---
+
+# 🔗 Repository Contents
+
+- Power BI Dashboard (.pbix)
+- SQL Queries
+- Cleaned Dataset (Excel)
+- Documentation
+
+---
+
+## 👤 Author
+
+Oluwasegun Balogun  
+Data Analyst | Business Intelligence
 
 ---
 
