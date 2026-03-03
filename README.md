@@ -14,14 +14,13 @@
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
----
+--- 
+**Data Analyst | Business Intelligence | Dashboards & Insights (Power BI • SQL • Excel • Tableau)**
 
-## 🎯 Executive Value Statement
+I turn raw data into clear dashboards and decision-ready insights — combining analytics, storytelling, and practical business impact.
 
-I help organisations transform complex datasets into strategic business decisions.
-As a Data Analyst specialising in Business Intelligence, Predictive Analytics, and Performance Optimization, I design data solutions that improve revenue visibility, reduce operational inefficiencies, and support executive decision-making.
-
-My work bridges the gap between raw data and business strategy.
+🔎 **Focus:** KPI reporting • trend analysis • customer & sales insights • operational performance  
+📍 **Open to:** BI / Data Analyst roles, dashboard projects, collaborations
 
 ---
 
