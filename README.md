@@ -19,7 +19,7 @@
 
 ---
 
-**Data Analyst | Business Intelligence Specialist | Dashboard & Insight Development (Power BI • SQL • Excel • Tableau)**  
+**Data Analyst | Business Intelligence Specialist | Dashboard & Insight Development (Power BI • SQL • Excel • Tableau • Python)**  
 
 I transform raw data into clear, interactive dashboards and decision-ready insights — combining analytics, storytelling, and measurable business impact.
 
@@ -37,36 +37,53 @@ I turn raw data into clear dashboards and decision-ready insights — combining 
 
 ---
 
-## 🛠️ Technical Skillset
-Here are the tools I use to explore, model, and visualise data effectively:
-### 📊 Data Analysis & Visualization
+## 🛠️ Technical Skillset  
+
+Here are the tools and technologies I use to analyse, model, visualise, and optimise data-driven solutions:
+
+### 📊 Data Analysis & Visualisation  
+
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-Expert-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-Expert-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistical%20Analysis-Expert-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-0F6CBD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistical%20Analysis-6A5ACD?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🤖 Programming & AI
+### 🗄️ Data & Modelling  
+
 <p>
-<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-Intermediate-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Expert-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Modelling-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ERD-2E8B57?style=for-the-badge"/>
 </p>
 
 ---
 
-### 📈 Business Intelligence & Analytics
+### 🤖 Automation & Analytics  
+
 <p>
-<img src="https://img.shields.io/badge/A%2FB%20Testing-Expert-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Predictive%20Modelling-Expert-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ERD%20Modelling-Expert-FF8C00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KPI%20Development-Expert-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lakehouse-008080?style=for-the-badge"/>
 </p>
 
+---
+
+### 🧠 AI & Productivity  
+
+<p>
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 ---
 
