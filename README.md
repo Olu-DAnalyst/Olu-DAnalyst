@@ -1,11 +1,13 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00ADEF&height=170&section=header&text=📊Oluwasegun%20Balogun&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00ADEF&height=170&section=header&text=Oluwasegun%20Balogun&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=4000&pause=1200&color=0077B5&center=true&vCenter=true&width=750&lines=Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Python+%7C+Tableau;Business+Intelligence+Specialist;Turning+Raw+Data+into+Clear+Dashboards;Delivering+Decision-Ready+Insights+for+Business+Impact"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=4000&pause=1200&color=0077B5&center=true&vCenter=true&width=750&lines=Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Python+%7C+Tableau;Business+Intelligence+Specialist;Transforming+Raw+Data+into+Interactive+Dashboards;Delivering+Decision-Ready+Insights+for+Measurable+Business+Impact"/>
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/oluwasegun-balogun">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -14,7 +16,18 @@
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
---- 
+
+---
+
+**Data Analyst | Business Intelligence Specialist | Dashboard & Insight Development (Power BI • SQL • Excel • Tableau)**  
+
+I transform raw data into clear, interactive dashboards and decision-ready insights — combining analytics, storytelling, and measurable business impact.
+
+🔎 **Focus:** KPI reporting • trend & performance analysis • customer & sales intelligence • operational optimisation  
+📍 **Open to:** BI / Data Analyst roles, dashboard projects, and collaborations  
+
+---
+
 **Data Analyst | Business Intelligence | Dashboards & Insights (Power BI • SQL • Excel • Tableau)**
 
 I turn raw data into clear dashboards and decision-ready insights — combining analytics, storytelling, and practical business impact.
