@@ -26,18 +26,10 @@ I transform raw data into clear, interactive dashboards and decision-ready insig
 🔎 **Focus:** KPI reporting • trend & performance analysis • customer & sales intelligence • operational optimisation  
 📍 **Open to:** BI / Data Analyst roles, dashboard projects, and collaborations  
 
----
-
-**Data Analyst | Business Intelligence | Dashboards & Insights (Power BI • SQL • Excel • Tableau)**
-
-I turn raw data into clear dashboards and decision-ready insights — combining analytics, storytelling, and practical business impact.
-
-🔎 **Focus:** KPI reporting • trend analysis • customer & sales insights • operational performance  
-📍 **Open to:** BI / Data Analyst roles, dashboard projects, collaborations
 
 ---
 
-## 🛠️ Technical Skillset  
+## 🛠️ Technical Skills & Technologies  
 
 Here are the tools and technologies I use to analyse, model, visualise, and optimise data-driven solutions:
 
@@ -54,7 +46,7 @@ Here are the tools and technologies I use to analyse, model, visualise, and opti
 
 ---
 
-### 🗄️ Data & Modelling  
+### 🗄️ Data Engineering & Modelling  
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -62,6 +54,7 @@ Here are the tools and technologies I use to analyse, model, visualise, and opti
 <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Modelling-4B8BBE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ERD-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
@@ -71,7 +64,6 @@ Here are the tools and technologies I use to analyse, model, visualise, and opti
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Lakehouse-008080?style=for-the-badge"/>
@@ -79,10 +71,14 @@ Here are the tools and technologies I use to analyse, model, visualise, and opti
 
 ---
 
-### 🧠 AI & Productivity  
+### 🧠 Generative AI & AI-Assisted Analytics  
 
 <p>
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Julius%20AI-FF8C00?style=for-the-badge"/>
 </p>
 
 ---
