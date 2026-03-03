@@ -165,16 +165,16 @@ Highlighted operational inefficiencies in recall resolution and crisis response 
 # 🖼 Dashboard Previews
 
 ## Executive Overview
-![Executive Overview](images/executive-overview.png)
+![Executive Overview](https://github.com/Olu-DAnalyst/AfriTech-Brand-Intelligence-System/blob/main/executive-overview.png?raw=true)
 
 ## Customer & Sales
-![Customer & Sales](images/customer-sales.png)
+![Customer & Sales](https://github.com/Olu-DAnalyst/AfriTech-Brand-Intelligence-System/blob/main/customer-sales.png?raw=true)
 
 ## Brand & Social
-![Brand & Social](images/brand-social.png)
+![Brand & Social](https://github.com/Olu-DAnalyst/AfriTech-Brand-Intelligence-System/blob/main/brand-social.png?raw=true)
 
 ## Crisis & Complaints
-![Crisis & Complaints](images/crisis-complaints.png)
+![Crisis & Complaints](https://github.com/Olu-DAnalyst/AfriTech-Brand-Intelligence-System/blob/main/crisis-complaints.png?raw=true)
 
 ---
 
