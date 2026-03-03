@@ -96,240 +96,76 @@ Here are the tools and technologies I use to analyse, model, visualise, and opti
 <img src="https://img.shields.io/badge/Julius%20AI-FF8C00?style=for-the-badge"/>
 </p>
 
----
-
-# ⭐ Featured Projects
 
 ---
 
-# 📊 AfriTech Brand Intelligence & Crisis Monitoring System
+## ⭐ Featured Projects
 
-An end-to-end Business Intelligence solution integrating **Excel, SQL, and Power BI** to monitor brand sentiment, customer engagement, sales performance, and crisis management metrics.
+### 1) 📊 <Project Name> — <1-line outcome>
+**Tools:** Power BI, SQL  
+**What it does:** <1 sentence problem + solution>  
+**Impact:** <1 measurable/clear benefit>  
+➡️ Repo: <LINK>
 
----
+### 2) 🧾 <Project Name> — <1-line outcome>
+**Tools:** Excel, Power Query, PivotTables  
+**What it does:** <1 sentence>  
+**Impact:** <1 sentence>  
+➡️ Repo: <LINK>
 
-## 🎯 Business Challenge
-
-AfriTech Electronics Ltd. faced:
-
-- Increasing negative social media sentiment
-- Rising product recalls
-- Customer dissatisfaction (NPS decline)
-- Slower crisis response times
-- Competitive market pressure
-
-Leadership required a centralized analytics system to monitor brand health and customer risk indicators in real time.
-
----
-
-## 🛠 Technology Stack
-
-- Excel – Data cleaning & preprocessing  
-- SQL – Data extraction & transformation  
-- Power BI – Interactive dashboard development  
-- KPI Framework Design  
+### 3) 🧠 <Project Name> — <1-line outcome>
+**Tools:** SQL, Python  
+**What it does:** <1 sentence>  
+**Impact:** <1 sentence>  
+➡️ Repo: <LINK>
 
 ---
 
-# 📂 Dashboard Architecture
+## 🗂️ Portfolio Navigation (Quick access)
+**Power BI**
+- <Project 1> → <LINK>
+- <Project 2> → <LINK>
 
-The solution consists of four interactive dashboard pages:
+**Excel**
+- <Project 1> → <LINK>
+- <Project 2> → <LINK>
 
----
+**SQL / Databases**
+- <Project 1> → <LINK>
+- <Project 2> → <LINK>
 
-## 🏠 1. Executive Overview
+**Tableau**
+- <Project 1> → <LINK>
 
-**Key KPIs:**
-- $37.5M Total Revenue  
-- 74K Total Interactions  
-- 37K Competitor Mentions  
-- 25K Total Recalls  
-- 190 Days Avg Response Time  
-- NPS Score: 5.0  
-
-Provided leadership with real-time brand performance visibility.
-
----
-
-## 👥 2. Customer & Sales Insights
-
-- 48K Transactions analyzed  
-- Revenue trend analysis (2021–2023)  
-- MoM Growth tracking (+0.25%)  
-- Revenue by product category (Laptop leading at $15.9M)  
-- Customer segmentation (New, Returning, VIP)  
-- Top 10 regions by revenue  
-
-Identified high-value customer segments and underperforming regions.
+**ERD / Data Modeling**
+- <Project 1> → <LINK>
 
 ---
 
-## 🌍 3. Brand & Social Media Analytics
-
-- 37M Comments analyzed  
-- 181M Likes  
-- 74M Shares  
-- Sentiment breakdown:
-  - Positive: 36.37%
-  - Neutral: 35.78%
-  - Negative: 27.85%
-
-Key Insight:
-Brand mentions often referenced competitors, but sentiment remained largely positive/neutral.
-
-Enabled proactive brand monitoring and engagement strategy.
+## ✅ What you’ll find in my projects
+Each project repo includes:
+- **Project Overview** (problem + goal)
+- **Key Questions** (what the dashboard/analysis answers)
+- **Process** (cleaning, modeling, measures, validation)
+- **Insights** (what the data revealed)
+- **Outcome** (business value / decisions enabled)
+- **Tools Used**
+- **Dashboard Preview** (screenshots / GIFs)
 
 ---
 
-## 🚨 4. Crisis & Complaints Intelligence
-
-- 25K Product Recalls  
-- 7K Unresolved Crises  
-- Avg Response Time increased from 188 → 192 days  
-- Top recall regions identified (Montana, Nebraska, West Virginia)
-
-Highlighted operational inefficiencies in recall resolution and crisis response handling.
+## 📈 What I’m currently improving
+- Advanced SQL (window functions, performance, data quality checks)
+- Power BI modeling (star schema, DAX patterns, RLS)
+- Building more end-to-end projects with cleaner repo structure & documentation
 
 ---
 
-# 📈 Strategic Impact
-
-✔ Centralized brand health monitoring  
-✔ Identified high-risk product lines  
-✔ Enabled faster executive reporting  
-✔ Provided actionable insights for retention strategy  
-✔ Supported competitive positioning analysis  
-
----
-
-# 🖼 Dashboard Previews
-
-## Executive Overview
-![Executive Overview](https://github.com/Olu-DAnalyst/AfriTech-Brand-Intelligence-System/blob/main/executive-overview.png?raw=true)
-
-## Customer & Sales
-![Customer & Sales](https://github.com/Olu-DAnalyst/AfriTech-Brand-Intelligence-System/blob/main/customer-sales.png?raw=true)
-
-## Brand & Social
-![Brand & Social](https://github.com/Olu-DAnalyst/AfriTech-Brand-Intelligence-System/blob/main/brand-social.png?raw=true)
-
-## Crisis & Complaints
-![Crisis & Complaints](https://github.com/Olu-DAnalyst/AfriTech-Brand-Intelligence-System/blob/main/crisis-complaints.png?raw=true)
-
----
-
-# 🔗 Repository Contents
-
-- Power BI Dashboard (.pbix)
-- SQL Queries
-- Cleaned Dataset (Excel)
-- Documentation
-
----
+## 🤝 Let’s collaborate
+If you’re working on dashboards, reporting, analytics, or data storytelling, I’m happy to connect.
 
 ## 👤 Author
 
 Oluwasegun Balogun  
 Data Analyst | Business Intelligence
 
----
-
-## 📉 StreamWorks Customer Churn Analysis
-
-**Tools:** Python | SQL | Statistical Analysis | Predictive Modeling | A/B Testing  
-
-### 📌 Project Overview
-Conducted end-to-end churn analysis to identify behavioral drivers of customer attrition and develop predictive insights for retention strategy.
-
-### 🔍 Key Responsibilities
-- Analyzed 7,000+ customer records using Python (Pandas, NumPy, Matplotlib)  
-- Performed exploratory data analysis and correlation analysis  
-- Built logistic regression model to predict churn probability  
-- Evaluated model using accuracy, precision, recall, and ROC-AUC metrics  
-
-### 📊 Key Insights Delivered
-- Found customers on month-to-month contracts had 3.2x higher churn probability  
-- Identified high monthly charges (> £75) increased churn likelihood by 28%  
-- Achieved 81% model accuracy with strong recall for at-risk customers  
-
-### 📈 Business Impact
-- Enabled targeted retention campaigns for high-risk segments  
-- Provided pricing strategy insights to reduce churn risk  
-- Demonstrated potential to reduce churn by an estimated 9–12% with proactive intervention  
-
-📊 **Model Output Preview:**  
-(Add your screenshot here)
-
-🔗 **View Full Project:**  
-https://github.com/Olu-DAnalyst/StreamWorks-Customer-Churn-Analysis
-
----
-
----
-
-# 🚀 Portfolio Navigation Panel
-
-<p align="center">
-
-<a href="#-excel-projects">
-  <img src="https://img.shields.io/badge/Excel%20Projects-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</a>
-
-<a href="#-power-bi-projects">
-  <img src="https://img.shields.io/badge/Power%20BI%20Projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</a>
-
-<a href="#-sql-projects">
-  <img src="https://img.shields.io/badge/SQL%20Projects-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-<br/><br/>
-<p align="center">
-<a href="#-tableau-projects">
-  <img src="https://img.shields.io/badge/Tableau%20Projects-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</a>
-
-<a href="#-generative-ai-projects">
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
-</a>
-
-<a href="#-microsoft-fabric-projects">
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 🟢 Excel Projects
-(Add your Excel projects here)
-
----
-
-## 🟡 Power BI Projects
-(Add your Power BI projects here)
-
----
-
-## 🔵 SQL Projects
-(Add your SQL projects here)
-
----
-
-## 📊 Tableau Projects
-(Add your Tableau projects here)
-
----
-
-## 🤖 Generative AI Projects
-(Add your AI projects here)
-
----
-
-## 🏢 Microsoft Fabric Projects
-(Add your Fabric projects here)
-
----
-
-<p align="center">
-  ⭐ If you find my work valuable, feel free to connect and collaborate.
-</p>
