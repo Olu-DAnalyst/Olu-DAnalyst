@@ -29,6 +29,21 @@ I transform raw data into clear, interactive dashboards and decision-ready insig
 
 ---
 
+
+## 🔎 Core Competencies
+
+- Business Intelligence & Reporting
+- Dashboard Development (Power BI & Tableau)
+- SQL Querying & Data Extraction
+- Data Cleaning & Transformation (Power Query)
+- Data Modelling (Star Schema, ERD)
+- KPI Development & Performance Tracking
+- AI-assisted data analysis, reporting automation, and workflow optimisation
+- Stakeholder Reporting & Data Storytelling
+
+
+---
+
 ## 🛠️ Technical Skills & Technologies  
 
 Here are the tools and technologies I use to analyse, model, visualise, and optimise data-driven solutions:
