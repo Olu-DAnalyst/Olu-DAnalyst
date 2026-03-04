@@ -104,7 +104,8 @@ Here are the tools and technologies I use to analyse, model, visualise, and opti
 ### 1) 📊 AfriTech Brand Reputation & Crisis Monitoring Dashboard — Identified drivers of declining customer trust and product recall impact
 
 **Tools:** Power BI, SQL  
-**What it does:**  
+
+**Project Overview:**  
 Developed an intelligent social media monitoring and crisis management dashboard analysing brand mentions, product recalls, customer complaints, and sentiment trends across multiple regions and platforms.
 
 **Impact:**  
