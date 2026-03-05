@@ -123,7 +123,7 @@ Developed an interactive Excel dashboard analysing logistics operations across 1
 Impact:
 Analysis revealed that 96.93% of deliveries were delayed and only 49% of orders were completed, highlighting a significant operational backlog. Insights from the dashboard help identify delivery bottlenecks, optimise driver allocation, and improve logistics performance.
 
-➡️ Repo: https://github.com/Olu-DAnalyst/streamline-logistics-excel-dashboard
+➡️ Repo: <https://github.com/Olu-DAnalyst/streamline-logistics-excel-dashboard/blob/main/README.md>
 
 ### 3) 🧠 <Project Name> — <1-line outcome>
 **Tools:** SQL, Python  
