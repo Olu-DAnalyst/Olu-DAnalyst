@@ -111,7 +111,7 @@ Developed an intelligent social media monitoring and crisis management dashboard
 **Impact:**  
 Monitored **74K+ social interactions and 38K brand mentions**, identifying **7K unresolved crisis cases and 25K product recalls impacting customer trust**. The dashboard enables proactive reputation monitoring, prioritisation of critical customer complaints, and faster crisis response to reduce reputational risk and protect market share.
 
-➡️ Repo: <https://github.com/YOURUSERNAME/afritech-social-media-monitoring-dashboard>
+➡️ Repo: <https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard>
 
 ### 2) 🧾 <Project Name> — <1-line outcome>
 **Tools:** Excel, Power Query, PivotTables  
