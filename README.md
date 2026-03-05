@@ -113,11 +113,17 @@ Monitored **74K+ social interactions and 38K brand mentions**, identifying **7K 
 
 ➡️ Repo: <https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard>
 
-### 2) 🧾 <Project Name> — <1-line outcome>
-**Tools:** Excel, Power Query, PivotTables  
-**What it does:** <1 sentence>  
-**Impact:** <1 sentence>  
-➡️ Repo: <LINK>
+### 2) 🧾 📦 Streamline Logistics Order Optimization Dashboard — Identified drivers of order backlogs, delivery delays, and customer dissatisfaction
+
+Tools: Excel, Power Query, PivotTables
+
+Project Overview:
+Developed an interactive Excel dashboard analysing logistics operations across 1,500 orders and 100 drivers to track delivery performance, order backlog risk, operational efficiency, and customer satisfaction trends.
+
+Impact:
+Analysis revealed that 96.93% of deliveries were delayed and only 49% of orders were completed, highlighting a significant operational backlog. Insights from the dashboard help identify delivery bottlenecks, optimise driver allocation, and improve logistics performance.
+
+➡️ Repo: https://github.com/Olu-DAnalyst/streamline-logistics-excel-dashboard
 
 ### 3) 🧠 <Project Name> — <1-line outcome>
 **Tools:** SQL, Python  
