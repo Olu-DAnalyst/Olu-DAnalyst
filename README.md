@@ -156,7 +156,7 @@ Developed a SQL-based HR analytics project analysing employee retention, perform
 Analysed workforce data across **60 employees**, identifying departments with critical turnover risk (Marketing 92.86%, Engineering 66.67%), uncovering salary-performance misalignment, and highlighting retention risks to support data-driven HR decision-making.
 
 ➡️ Repo:  
-https://github.com/Olu-DAnalyst/nextgen-employee-analytics-sql
+https://github.com/Olu-DAnalyst/nextgen-employee-retention-sql-analysis
 
 ---
 ## 🗂️ Portfolio Navigation (Quick access)
