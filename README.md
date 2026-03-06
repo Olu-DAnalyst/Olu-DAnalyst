@@ -127,11 +127,18 @@ Analysis revealed that 96.93% of deliveries were delayed and only 49% of orders 
 
 ➡️ Repo: <https://github.com/Olu-DAnalyst/streamline-logistics-excel-dashboard/blob/main/README.md>
 
-### 3) 🧠 <Project Name> — <1-line outcome>
-**Tools:** SQL, Python  
-**What it does:** <1 sentence>  
-**Impact:** <1 sentence>  
-➡️ Repo: <LINK>
+### 3) 📊 Elevate Corp Workforce & Compensation Analytics Dashboard — Identified workforce compensation patterns, benefits distribution, and cost-of-living salary adjustments across job roles and locations
+
+**Tools:** Tableau  
+
+**Project Overview:**  
+Developed an interactive Tableau dashboard analysing workforce distribution, salary trends by experience level, employee benefits allocation, and cost-of-living compensation adjustments across multiple locations to support HR analytics and strategic talent management.
+
+**Impact:**  
+Analysed workforce data for **1,000 employees**, uncovering salary disparities across experience levels, identifying benefits adoption trends, and highlighting cost-of-living compensation differences across major cities to support data-driven workforce planning and compensation strategy.
+
+➡ **Repo:**  
+https://github.com/Olu-DAnalyst/elevate-corp-workforce-compensation-analytics
 
 ---
 
