@@ -141,7 +141,7 @@ Developed an interactive Tableau dashboard analysing workforce distribution, sal
 Analysed workforce data for **1,000 employees**, uncovering salary disparities across experience levels, identifying benefits adoption trends, and highlighting cost-of-living compensation differences across major cities to support data-driven workforce planning and compensation strategy.
 
 ➡ **Repo:**  
-[View Project](https://github.com/Olu-DAnalyst/elevate-corp-workforce-compensation-analytics)
+ [View Project](https://github.com/Olu-DAnalyst/elevate-corp-workforce-compensation-analytics)
 ---
 
 ## 🗂️ Portfolio Navigation (Quick access)
