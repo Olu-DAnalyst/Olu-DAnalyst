@@ -145,6 +145,22 @@ https://github.com/Olu-DAnalyst/elevate-corp-workforce-compensation-analytics
 
 ---
 
+---
+
+### 4️⃣ 🗄 NextGen Employee Retention & Workforce Analytics (SQL Project) — Identified drivers of employee turnover, performance variability, and compensation disparities
+
+**Tools:** SQL, PostgreSQL  
+
+**Project Overview:**  
+Developed a SQL-based HR analytics project analysing employee retention, performance trends, salary distribution, and departmental turnover rates to uncover workforce dynamics and identify factors influencing employee attrition.
+
+**Impact:**  
+Analysed workforce data across **60 employees**, identifying departments with critical turnover risk (Marketing 92.86%, Engineering 66.67%), uncovering salary-performance misalignment, and highlighting retention risks to support data-driven HR decision-making.
+
+➡️ Repo:  
+https://github.com/Olu-DAnalyst/nextgen-employee-analytics-sql
+
+---
 ## 🗂️ Portfolio Navigation (Quick access)
 **Power BI**
 - <Project 1> → <LINK>
