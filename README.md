@@ -160,24 +160,27 @@ https://github.com/Olu-DAnalyst/nextgen-employee-retention-sql-analysis
 
 ---
 ## 🗂️ Portfolio Navigation (Quick access)
-**Power BI**
-- <Project 1> → <LINK>
-- <Project 2> → <LINK>
 
-**Excel**
-- <Project 1> → <LINK>
-- <Project 2> → <LINK>
+### ![Tool](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+- Project 1 → <LINK>
+- Project 2 → <LINK>
 
-**SQL / Databases**
-- <Project 1> → <LINK>
-- <Project 2> → <LINK>
+### ![Tool](https://img.shields.io/badge/Tool-Excel-green)
+- Project 1 → <LINK>
+- Project 2 → <LINK>
 
-**Tableau**
-- <Project 1> → <LINK>
+### ![Tool](https://img.shields.io/badge/Tool-SQL-blue)
+- Project 1 → <LINK>
+- Project 2 → <LINK>
 
-**ERD / Data Modeling**
-- <Project 1> → <LINK>
+### ![Tool](https://img.shields.io/badge/Tool-Tableau-blueviolet)
+- Project 1 → <LINK>
 
+### ![Tool](https://img.shields.io/badge/Tool-ERD%20Modeling-orange)
+- Project 1 → <LINK>
+
+### ![Tool](https://img.shields.io/badge/Tool-Generative%20AI-grey)
+- Project 1 → <LINK>
 ---
 
 ## ✅ What you’ll find in my projects
