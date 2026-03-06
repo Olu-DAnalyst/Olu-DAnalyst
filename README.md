@@ -98,10 +98,9 @@ Here are the tools and technologies I use to analyse, model, visualise, and opti
 
 
 ---
-
 ## ⭐ Featured Projects
 
-### 1) 📊 AfriTech Brand Reputation & Crisis Monitoring Dashboard — Identified drivers of declining customer trust and product recall impact
+### 1️⃣ 📊 AfriTech Brand Reputation & Crisis Monitoring Dashboard — Identified drivers of declining customer trust and product recall impact
 
 **Tools:** Power BI, SQL  
 
@@ -111,23 +110,27 @@ Developed an intelligent social media monitoring and crisis management dashboard
 **Impact:**  
 Monitored **74K+ social interactions and 38K brand mentions**, identifying **7K unresolved crisis cases and 25K product recalls impacting customer trust**. The dashboard enables proactive reputation monitoring, prioritisation of critical customer complaints, and faster crisis response to reduce reputational risk and protect market share.
 
-➡️ Repo: <https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard>
+➡ **Repo:**  
+https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard
 
-### 2) 🧾 📦 Streamline Logistics Order Optimization Dashboard — Identified drivers of order backlogs, delivery delays, and customer dissatisfaction
+---
 
-Tools: Excel, Power Query, PivotTables
+### 2️⃣ 📦 Streamline Logistics Order Optimization Dashboard — Identified drivers of order backlogs, delivery delays, and customer dissatisfaction
 
-**Project Overview:** 
+**Tools:** Excel, Power Query, PivotTables  
 
-Developed an interactive Excel dashboard analysing logistics operations across 1,500 orders and 100 drivers to track delivery performance, order backlog risk, operational efficiency, and customer satisfaction trends.
+**Project Overview:**  
+Developed an interactive Excel dashboard analysing logistics operations across **1,500 orders and 100 drivers** to track delivery performance, order backlog risk, operational efficiency, and customer satisfaction trends.
 
-**Impact:** 
+**Impact:**  
+Analysis revealed **96.93% of deliveries were delayed and only 49% of orders were completed**, highlighting a significant operational backlog. Insights from the dashboard help identify delivery bottlenecks, optimise driver allocation, and improve logistics performance.
 
-Analysis revealed that 96.93% of deliveries were delayed and only 49% of orders were completed, highlighting a significant operational backlog. Insights from the dashboard help identify delivery bottlenecks, optimise driver allocation, and improve logistics performance.
+➡ **Repo:**  
+https://github.com/Olu-DAnalyst/streamline-logistics-excel-dashboard
 
-➡️ Repo: <https://github.com/Olu-DAnalyst/streamline-logistics-excel-dashboard/blob/main/README.md>
+---
 
-### 3) 📊 Elevate Corp Workforce & Compensation Analytics Dashboard — Identified workforce compensation patterns, benefits distribution, and cost-of-living salary adjustments across job roles and locations
+### 3️⃣ 📊 Elevate Corp Workforce & Compensation Analytics Dashboard — Identified workforce compensation patterns, benefits distribution, and cost-of-living salary adjustments across job roles and locations
 
 **Tools:** Tableau  
 
@@ -139,7 +142,6 @@ Analysed workforce data for **1,000 employees**, uncovering salary disparities a
 
 ➡ **Repo:**  
 https://github.com/Olu-DAnalyst/elevate-corp-workforce-compensation-analytics
-
 ---
 
 ## 🗂️ Portfolio Navigation (Quick access)
