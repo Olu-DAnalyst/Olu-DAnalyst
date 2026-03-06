@@ -111,7 +111,7 @@ Developed an intelligent social media monitoring and crisis management dashboard
 Monitored **74K+ social interactions and 38K brand mentions**, identifying **7K unresolved crisis cases and 25K product recalls impacting customer trust**. The dashboard enables proactive reputation monitoring, prioritisation of critical customer complaints, and faster crisis response to reduce reputational risk and protect market share.
 
 ➡ **Repo:**  
-[View Project](https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard)
+https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard
 
 ---
 
@@ -126,7 +126,7 @@ Developed an interactive Excel dashboard analysing logistics operations across *
 Analysis revealed **96.93% of deliveries were delayed and only 49% of orders were completed**, highlighting a significant operational backlog. Insights from the dashboard help identify delivery bottlenecks, optimise driver allocation, and improve logistics performance.
 
 ➡ **Repo:**  
-[View Project](https://github.com/Olu-DAnalyst/streamline-logistics-excel-dashboard)
+https://github.com/Olu-DAnalyst/streamline-logistics-excel-dashboard
 
 ---
 
@@ -141,7 +141,8 @@ Developed an interactive Tableau dashboard analysing workforce distribution, sal
 Analysed workforce data for **1,000 employees**, uncovering salary disparities across experience levels, identifying benefits adoption trends, and highlighting cost-of-living compensation differences across major cities to support data-driven workforce planning and compensation strategy.
 
 ➡ **Repo:**  
- [View Project](https://github.com/Olu-DAnalyst/elevate-corp-workforce-compensation-analytics)
+https://github.com/Olu-DAnalyst/elevate-corp-workforce-compensation-analytics
+
 ---
 
 ## 🗂️ Portfolio Navigation (Quick access)
