@@ -19,12 +19,13 @@
 
 ---
 
-**Data Analyst | Business Intelligence Specialist | Dashboard & Insight Development (Power BI • SQL • Excel • Tableau • Python)**  
+## 👨‍💻 About Me
 
-I transform raw data into clear, interactive dashboards and decision-ready insights — combining analytics, storytelling, and measurable business impact.
+I am a **Data Analyst and Business Intelligence professional** passionate about transforming raw data into meaningful insights, interactive dashboards, and decision-ready reports.
 
-🔎 **Focus:** KPI reporting • trend & performance analysis • customer & sales intelligence • operational optimisation  
-📍 **Open to:** BI / Data Analyst roles, dashboard projects, and collaborations  
+I specialise in helping organisations **track performance, identify trends, optimise processes, and make data-driven strategic decisions.**
+
+📍 Open to **Data Analyst | BI Analyst | Reporting Analyst roles**
 
 
 ---
