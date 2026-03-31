@@ -21,9 +21,11 @@
 
 ## 👨‍💻 About Me
 
-I am a **Data Analyst and Business Intelligence professional** passionate about transforming raw data into meaningful insights, interactive dashboards, and decision-ready reports.
+- Data Analyst with experience in **Power BI, SQL, Excel, and Tableau**
+- Strong focus on **business intelligence, KPI reporting, and data storytelling**
+- Skilled in turning complex datasets into **clear, decision-ready insights**
+- Background in **finance, administration, and auditing**, bringing strong analytical and problem-solving skills
 
-I specialise in helping organisations **track performance, identify trends, optimise processes, and make data-driven strategic decisions.**
 
 📍 Open to **Data Analyst | BI Analyst | Reporting Analyst roles**
 
