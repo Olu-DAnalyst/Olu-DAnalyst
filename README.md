@@ -53,59 +53,15 @@ Recently analysed 74K+ records to uncover customer sentiment trends and business
 - Translate findings into clear recommendations for stakeholders  
 
 ---
-## 🛠️ Technical Skills & Technologies  
-
-Here are the tools and technologies I use to analyse, model, visualise, and optimise data-driven solutions:
-
-### 📊 Data Analysis & Visualisation  
+## 🧰 Tools & Technologies
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-0F6CBD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistical%20Analysis-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
 </p>
-
----
-
-### 🗄️ Data Engineering & Modelling  
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Modelling-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ERD-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
-</p>
-
----
-
-### 🤖 Automation & Analytics  
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Lakehouse-008080?style=for-the-badge"/>
-</p>
-
----
-
-### 🧠 Generative AI & AI-Assisted Analytics  
-
-<p>
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Julius%20AI-FF8C00?style=for-the-badge"/>
-</p>
-
-
 ---
 ## ⭐ Featured Projects
 
