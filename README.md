@@ -68,7 +68,7 @@ I help organisations **track performance, identify trends, optimise processes, a
 
 ## ⭐ Featured Projects
 
-### 1️⃣ 📊 AfriTech Brand Reputation & Crisis Monitoring Dashboard — Identified drivers of declining customer trust and product recall impact
+### 1️⃣ 📊 AfriTech Brand Reputation & Crisis Monitoring Dashboard 
 
 **Tools:** Power BI, SQL  
 
