@@ -130,22 +130,17 @@ https://github.com/Olu-DAnalyst/nextgen-employee-retention-sql-analysis
 ## 🗂️ Portfolio Navigation (Quick access)
 
 ### ![Tool](https://img.shields.io/badge/Tool-Power%20BI-yellow)
-- Project 1 → <LINK>
-- Project 2 → <LINK>
+- AfriTech Brand Reputation Dashboard → REPO_LINK
+
 
 ### ![Tool](https://img.shields.io/badge/Tool-Excel-green)
-- Project 1 → <LINK>
-- Project 2 → <LINK>
+- Streamline Logistics Dashboard → REPO_LINK
 
 ### ![Tool](https://img.shields.io/badge/Tool-SQL-blue)
-- Project 1 → <LINK>
-- Project 2 → <LINK>
+- NextGen Employee Retention Analysis → REPO_LINK
 
 ### ![Tool](https://img.shields.io/badge/Tool-Tableau-blueviolet)
-- Project 1 → <LINK>
-
-### ![Tool](https://img.shields.io/badge/Tool-ERD%20Modeling-orange)
-- Project 1 → <LINK>
+- Workforce & Compensation Analytics → Coming Soon
 
 ### ![Tool](https://img.shields.io/badge/Tool-Generative%20AI-grey)
 - Project 1 → <LINK>
@@ -163,10 +158,14 @@ Each project repo includes:
 
 ---
 
-## 📈 What I’m currently improving
-- Advanced SQL (window functions, performance, data quality checks)
-- Power BI modeling (star schema, DAX patterns, RLS)
-- Building more end-to-end projects with cleaner repo structure & documentation
+ 📈 Skills Demonstrated
+
+- Data cleaning and transformation
+- Exploratory data analysis
+- Dashboard development
+- KPI design
+- Data visualization
+- Business insight generation
 
 ---
 
