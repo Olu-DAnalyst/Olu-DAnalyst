@@ -63,6 +63,7 @@ Recently analysed 74K+ records to uncover customer sentiment trends and business
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
 </p>
 ---
+
 ## ⭐ Featured Projects
 
 ### 1️⃣ 📊 AfriTech Brand Reputation & Crisis Monitoring Dashboard — Identified drivers of declining customer trust and product recall impact
