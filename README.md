@@ -33,28 +33,6 @@ I help organisations **track performance, identify trends, optimise processes, a
 
 📍 Open to **Data Analyst | BI Analyst | Reporting Analyst roles**
 ---
-
-
-## 🔎 Core Competencies
-
-- Business Intelligence & Reporting
-- Dashboard Development (Power BI & Tableau)
-- SQL Querying & Data Extraction
-- Data Cleaning & Transformation (Power Query)
-- Data Modelling (Star Schema, ERD)
-- KPI Development & Performance Tracking
-- AI-assisted data analysis, reporting automation, and workflow optimisation
-- Stakeholder Reporting & Data Storytelling
-
----
-
-## 🧠 How I Work
-- Clean and structure messy datasets using SQL and Power Query  
-- Build data models and define KPIs aligned with business goals  
-- Create dashboards that highlight trends, risks, and opportunities  
-- Translate findings into clear recommendations for stakeholders  
-
----
 ## 🧰 Tools & Technologies
 
 <p>
@@ -82,22 +60,21 @@ https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard
 
 ---
 
-### 2️⃣ 📦 Streamline Logistics Order Optimization Dashboard — Identified drivers of order backlogs, delivery delays, and customer dissatisfaction
+### 2️⃣ 📦 Streamline Logistics Order Optimization Dashboard 
 
 **Tools:** Excel, Power Query, PivotTables  
 
-**Project Overview:**  
-Developed an interactive Excel dashboard analysing logistics operations across **1,500 orders and 100 drivers** to track delivery performance, order backlog risk, operational efficiency, and customer satisfaction trends.
+Developed an Excel dashboard to track delivery performance and operational efficiency.  
+- Analysed delivery delays and backlog trends  
+- Identified performance gaps across drivers and regions  
+- Built interactive dashboard using PivotTables and charts
 
-**Impact:**  
-Analysis revealed **96.93% of deliveries were delayed and only 49% of orders were completed**, highlighting a significant operational backlog. Insights from the dashboard help identify delivery bottlenecks, optimise driver allocation, and improve logistics performance.
-
-➡ **Repo:**  
+➡ **View Project:**  
 https://github.com/Olu-DAnalyst/streamline-logistics-excel-dashboard
 
 ---
 
-### 3️⃣ 📊 Elevate Corp Workforce & Compensation Analytics Dashboard — Identified workforce compensation patterns, benefits distribution, and cost-of-living salary adjustments across job roles and locations
+### 3️⃣ 📊 Elevate Corp Workforce & Compensation Analytics Dashboard 
 
 **Tools:** Tableau  
 
@@ -112,20 +89,33 @@ https://github.com/Olu-DAnalyst/elevate-corp-workforce-compensation-analytics
 
 ---
 
-### 4️⃣ 🗄 NextGen Employee Retention & Workforce Analytics (SQL Project) — Identified drivers of employee turnover, performance variability, and compensation disparities
+### 4️⃣ 🗄 NextGen Employee Retention & Workforce Analytics (SQL Project) 
 
 **Tools:** SQL, PostgreSQL  
 
-**Project Overview:**  
-Developed a SQL-based HR analytics project analysing employee retention, performance trends, salary distribution, and departmental turnover rates to uncover workforce dynamics and identify factors influencing employee attrition.
-
-**Impact:**  
-Analysed workforce data across **60 employees**, identifying departments with critical turnover risk (Marketing 92.86%, Engineering 66.67%), uncovering salary-performance misalignment, and highlighting retention risks to support data-driven HR decision-making.
-
-➡️ Repo:  
+Used SQL to analyse workforce data and uncover factors driving employee turnover.  
+- Performed joins, aggregations, and trend analysis  
+- Identified high-risk departments and salary patterns  
+- Provided insights to support retention strategies
+  
+➡ **View Project:**   
 https://github.com/Olu-DAnalyst/nextgen-employee-retention-sql-analysis
 
 ---
+
+## 🔎 Core Competencies
+
+- Business Intelligence & Reporting
+- Dashboard Development (Power BI & Tableau)
+- SQL Querying & Data Extraction
+- Data Cleaning & Transformation (Power Query)
+- Data Modelling (Star Schema, ERD)
+- KPI Development & Performance Tracking
+- AI-assisted data analysis, reporting automation, and workflow optimisation
+- Stakeholder Reporting & Data Storytelling
+
+---
+ 
 ## 🗂️ Portfolio Navigation (Quick access)
 
 ### ![Tool](https://img.shields.io/badge/Tool-Power%20BI-yellow)
@@ -144,18 +134,6 @@ https://github.com/Olu-DAnalyst/nextgen-employee-retention-sql-analysis
 ### ![Tool](https://img.shields.io/badge/Tool-Python-blue)
 - Python Data Analysis Project → Coming Soon
   
----
-
-## ✅ What you’ll find in my projects
-Each project repo includes:
-- **Project Overview** (problem + goal)
-- **Key Questions** (what the dashboard/analysis answers)
-- **Process** (cleaning, modeling, measures, validation)
-- **Insights** (what the data revealed)
-- **Outcome** (business value / decisions enabled)
-- **Tools Used**
-- **Dashboard Preview** (screenshots / GIFs)
-
 ---
 
  📈 Skills Demonstrated
