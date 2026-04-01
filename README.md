@@ -72,13 +72,12 @@ I help organisations **track performance, identify trends, optimise processes, a
 
 **Tools:** Power BI, SQL  
 
-**Project Overview:**  
-Developed an intelligent social media monitoring and crisis management dashboard analysing brand mentions, product recalls, customer complaints, and sentiment trends across multiple regions and platforms.
+Analysed **74K+ social interactions and 38K brand mentions** to identify customer sentiment, unresolved complaints, and crisis risks.  
+- Built interactive Power BI dashboard for KPI tracking  
+- Identified key drivers of negative sentiment and recall impact  
+- Delivered actionable insights for brand reputation management  
 
-**Impact:**  
-Monitored **74K+ social interactions and 38K brand mentions**, identifying **7K unresolved crisis cases and 25K product recalls impacting customer trust**. The dashboard enables proactive reputation monitoring, prioritisation of critical customer complaints, and faster crisis response to reduce reputational risk and protect market share.
-
-➡ **Repo:**  
+➡ **View Project:**  
 https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard
 
 ---
