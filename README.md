@@ -25,11 +25,11 @@
 - Strong focus on **business intelligence, KPI reporting, and data storytelling**
 - Skilled in turning complex datasets into **clear, decision-ready insights**
 - Background in **finance, administration, and auditing**, bringing strong analytical and problem-solving skills
+I help businesses turn data into clear insights, dashboards, and decisions — using Power BI, SQL, and Excel.
 
+Recently analysed 74K+ records to uncover customer sentiment trends and business risks.
 
 📍 Open to **Data Analyst | BI Analyst | Reporting Analyst roles**
-
-
 ---
 
 
@@ -44,9 +44,15 @@
 - AI-assisted data analysis, reporting automation, and workflow optimisation
 - Stakeholder Reporting & Data Storytelling
 
-
 ---
 
+## 🧠 How I Work
+- Clean and structure messy datasets using SQL and Power Query  
+- Build data models and define KPIs aligned with business goals  
+- Create dashboards that highlight trends, risks, and opportunities  
+- Translate findings into clear recommendations for stakeholders  
+
+---
 ## 🛠️ Technical Skills & Technologies  
 
 Here are the tools and technologies I use to analyse, model, visualise, and optimise data-driven solutions:
