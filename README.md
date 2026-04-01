@@ -141,9 +141,10 @@ https://github.com/Olu-DAnalyst/nextgen-employee-retention-sql-analysis
 
 ### ![Tool](https://img.shields.io/badge/Tool-Tableau-blueviolet)
 - Workforce & Compensation Analytics → Coming Soon
-
-### ![Tool](https://img.shields.io/badge/Tool-Generative%20AI-grey)
-- Project 1 → <LINK>
+  
+### ![Tool](https://img.shields.io/badge/Tool-Python-blue)
+- Python Data Analysis Project → Coming Soon
+  
 ---
 
 ## ✅ What you’ll find in my projects
