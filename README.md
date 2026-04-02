@@ -49,7 +49,7 @@ I’m particularly interested in using data to improve **performance, efficiency
 
 ### 📊 Customer Sentiment & Brand Risk Analysis (Power BI + SQL)
 
- ![AfriTech Dashboard](images/afritech-overview.png)
+![Executive Dashboard showing KPIs for sentiment, recalls, and crisis volume](images/executive-overview.png)
 
 Analysed **74K+ social interactions and 38K brand mentions** to identify customer sentiment, unresolved complaints, and crisis risks.  
 - Built interactive Power BI dashboard for KPI tracking  
