@@ -19,19 +19,18 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-I am a **Data Analyst and Business Intelligence professional** passionate about transforming raw data into meaningful insights, interactive dashboards, and decision-ready reports.
+Data Analyst specialising in **business intelligence, operational analytics, and workforce insights**.
 
-I help organisations **track performance, identify trends, optimise processes, and make data-driven strategic decisions**.
+I use data to **identify risks, optimise performance, and support decision-making** across business functions.
 
-- 📊 Skilled in **Power BI, SQL, Excel, and Tableau**
-- 📈 Strong focus on **business intelligence, KPI reporting, and data storytelling**
-- 🔍 Experienced in transforming complex datasets into **clear, actionable insights**
-- 🏢 Background in **finance, administration, auditing, and business operations**
-- 🚀 Recently analysed **74K+ records** to uncover customer sentiment trends and business risks
+✔ Analysed **74K+ customer interactions** to detect brand risk  
+✔ Identified **90%+ turnover concentration** in high-risk departments  
+✔ Diagnosed **96% delivery delays** to uncover operational inefficiencies  
 
-📍 Open to **Data Analyst | BI Analyst | Reporting Analyst roles**
+📍 Open to: **Data Analyst | BI Analyst | Reporting Analyst roles**
+
 ---
 ## 🧰 Tools & Technologies
 
@@ -46,9 +45,9 @@ I help organisations **track performance, identify trends, optimise processes, a
 
 ## ⭐ Featured Projects
 
-### 1️⃣ 📊 AfriTech Brand Reputation & Crisis Monitoring Dashboard 
+### 📊 Customer Sentiment & Brand Risk Analysis (Power BI + SQL)
 
-**Tools:** Power BI, SQL  
+ ![AfriTech Dashboard](images/afritech-overview.png)
 
 Analysed **74K+ social interactions and 38K brand mentions** to identify customer sentiment, unresolved complaints, and crisis risks.  
 - Built interactive Power BI dashboard for KPI tracking  
