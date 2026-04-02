@@ -21,16 +21,18 @@
 
 ## 👨‍💻 About Me  
 
-Data Analyst specialising in **business intelligence, operational analytics, and workforce insights**.
+Data Analyst with a strong focus on **turning data into clear, actionable insights that support business decisions**.
 
-I use data to **identify risks, optimise performance, and support decision-making** across business functions.
+I bring a blend of **analytical thinking and business understanding**, with experience across operations, finance, and workforce analytics. I enjoy working with complex datasets to uncover patterns, identify risks, and highlight opportunities for improvement.
 
-✔ Analysed **74K+ customer interactions** to detect brand risk  
-✔ Identified **90%+ turnover concentration** in high-risk departments  
-✔ Diagnosed **96% delivery delays** to uncover operational inefficiencies  
+My approach is simple:
+- Understand the problem  
+- Analyse the data  
+- Deliver insights that drive action  
+
+I’m particularly interested in using data to improve **performance, efficiency, and decision-making across organisations**.
 
 📍 Open to: **Data Analyst | BI Analyst | Reporting Analyst roles**
-
 ---
 ## 🧰 Tools & Technologies
 
