@@ -62,9 +62,9 @@ https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard
 
 ---
 
-### 2️⃣ 📦 Streamline Logistics Order Optimization Dashboard 
-
-**Tools:** Excel, Power Query, PivotTables  
+### 📦 Logistics Operations & Delivery Performance (Excel + Power Query + PivotTables) 
+ 
+!(images/executive-overview.png)
 
 Developed an Excel dashboard to track delivery performance and operational efficiency.  
 - Analysed delivery delays and backlog trends  
@@ -76,9 +76,9 @@ https://github.com/Olu-DAnalyst/streamline-logistics-excel-dashboard
 
 ---
 
-### 3️⃣ 📊 Elevate Corp Workforce & Compensation Analytics Dashboard 
+###  📊 Workforce & Compensation Analytics (Tableau) 
 
-**Tools:** Tableau  
+!(images/executive-overview.png)
 
 **Project Overview:**  
 Developed an interactive Tableau dashboard analysing workforce distribution, salary trends by experience level, employee benefits allocation, and cost-of-living compensation adjustments across multiple locations to support HR analytics and strategic talent management.
@@ -91,7 +91,7 @@ https://github.com/Olu-DAnalyst/elevate-corp-workforce-compensation-analytics
 
 ---
 
-### 4️⃣ 🗄 NextGen Employee Retention & Workforce Analytics (SQL Project) 
+###  🗄 Employee Retention & Workforce Analytics (SQL) 
 
 **Tools:** SQL, PostgreSQL  
 
@@ -102,6 +102,14 @@ Used SQL to analyse workforce data and uncover factors driving employee turnover
   
 ➡ **View Project:**   
 https://github.com/Olu-DAnalyst/nextgen-employee-retention-sql-analysis
+
+---
+
+## 📈 What I Bring  
+
+- Strong ability to translate data into **business decisions**  
+- Experience analysing **operations, HR, and customer data**  
+- Focus on **impact, not just dashboards**
 
 ---
 
@@ -116,26 +124,7 @@ https://github.com/Olu-DAnalyst/nextgen-employee-retention-sql-analysis
 - AI-assisted data analysis, reporting automation, and workflow optimisation
 - Stakeholder Reporting & Data Storytelling
 
----
- 
-## 🗂️ Portfolio Navigation (Quick access)
 
-### ![Tool](https://img.shields.io/badge/Tool-Power%20BI-yellow)
-- AfriTech Brand Reputation Dashboard → REPO_LINK
-
-
-### ![Tool](https://img.shields.io/badge/Tool-Excel-green)
-- Streamline Logistics Dashboard → REPO_LINK
-
-### ![Tool](https://img.shields.io/badge/Tool-SQL-blue)
-- NextGen Employee Retention Analysis → REPO_LINK
-
-### ![Tool](https://img.shields.io/badge/Tool-Tableau-blueviolet)
-- Workforce & Compensation Analytics → Coming Soon
-  
-### ![Tool](https://img.shields.io/badge/Tool-Python-blue)
-- Python Data Analysis Project → Coming Soon
-  
 ---
 
  📈 Skills Demonstrated
