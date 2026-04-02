@@ -33,6 +33,7 @@ My approach is simple:
 I’m particularly interested in using data to improve **performance, efficiency, and decision-making across organisations**.
 
 📍 Open to: **Data Analyst | BI Analyst | Reporting Analyst roles**
+
 ---
 ## 🧰 Tools & Technologies
 
