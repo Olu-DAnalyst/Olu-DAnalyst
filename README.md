@@ -49,7 +49,7 @@ I’m driven by the goal of using data not just to report what happened, but to 
 ## ⭐ Featured Projects
 
 ### 📊 Customer Sentiment & Brand Risk Analysis (Power BI + SQL)
-![Executive Overview](executive-overview.png) ![Customer Sales](customer-sales.png) ![Crisis Complaints](crisis-complaints.png)
+![Executive Overview](executive-overview.png) ![Customer Sales](customer-sales.png) ![Brand Sentiment](Brand-Sentiment.png) ![Crisis Complaints](crisis-complaints.png)
 
 Analysed **74K+ social interactions and 38K brand mentions** to identify customer sentiment, unresolved complaints, and crisis risks.  
 - Built interactive Power BI dashboard for KPI tracking  
@@ -77,7 +77,7 @@ https://github.com/Olu-DAnalyst/streamline-logistics-excel-dashboard
 
 ###  📊 Workforce & Compensation Analytics (Tableau) 
 
-!(images/executive-overview.png)
+![Workforce Dashboard](workforce-dashboard.png)
 
 **Project Overview:**  
 Developed an interactive Tableau dashboard analysing workforce distribution, salary trends by experience level, employee benefits allocation, and cost-of-living compensation adjustments across multiple locations to support HR analytics and strategic talent management.
@@ -91,8 +91,7 @@ https://github.com/Olu-DAnalyst/elevate-corp-workforce-compensation-analytics
 ---
 
 ###  🗄 Employee Retention & Workforce Analytics (SQL) 
-
-**Tools:** SQL, PostgreSQL  
+ 
 
 Used SQL to analyse workforce data and uncover factors driving employee turnover.  
 - Performed joins, aggregations, and trend analysis  
