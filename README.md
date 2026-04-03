@@ -62,7 +62,7 @@ https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard
 ---
 
 ### 📦 Logistics Operations & Delivery Performance (Excel + Power Query + PivotTables) 
- ![Executive Overview](Executive-Overview (2).png) ![Operations Efficiency](Operations-Efficiency.png) ![Customer Feedback](Customer-Feedback.png) ![Forecasting Trends](Forecasting-Trends.png)
+ ![Executive Overview](Executive-Overview%20(2).png) ![Operations Efficiency](Operations-Efficiency.png) ![Customer Feedback](Customer-Feedback.png) ![Forecasting Trends](Forecasting-Trends.png)
 
 Developed an Excel dashboard to track delivery performance and operational efficiency.  
 - Analysed delivery delays and backlog trends  
