@@ -49,8 +49,7 @@ I’m driven by the goal of using data not just to report what happened, but to 
 ## ⭐ Featured Projects
 
 ### 📊 Customer Sentiment & Brand Risk Analysis (Power BI + SQL)
-
-!(images/executive-overview.png)
+![Executive Overview](executive-overview.png) ![Customer Sales](customer-sales.png) ![Crisis Complaints](crisis-complaints.png)
 
 Analysed **74K+ social interactions and 38K brand mentions** to identify customer sentiment, unresolved complaints, and crisis risks.  
 - Built interactive Power BI dashboard for KPI tracking  
