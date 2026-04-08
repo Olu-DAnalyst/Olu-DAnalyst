@@ -25,21 +25,25 @@
 
 ---
 
-## 🚀 Signature Project  
+## 🚀 Signature Project  (End-to-End Business Case)
 
   ### 📊 Retail Sales Performance & Profitability Dashboard (Power BI)
 
 ![Sales Overview](https://raw.githubusercontent.com/Olu-DAnalyst/Retail-Sales-Performance-Profitability/main/sales_overview.png)
 ![Profit Analysis](https://raw.githubusercontent.com/Olu-DAnalyst/Retail-Sales-Performance-Profitability/main/profit-analysis.png)
 
-  **Key Insight:**
-  Multi-channel retail data consolidated into a single Power BI dashboard — revealing $57.79M profit, 37% margins, and channel-level performance gaps across retail and e-commerce.
+ **What I found:**  
+Revenue performance was strong (**$155M total revenue, 37% profit margin**), but profitability varied significantly across product categories and regions.  
 
-- Analysed **$155M revenue across 8K+ orders** from physical stores & e-commerce platforms
-- Identified **top-performing cities, products & customers** driving revenue concentration
-- Uncovered **wholesale as dominant channel** (~55% of total revenue) with year-end sales surge
+**What this means:**  
+High-performing categories were masking underperforming segments, creating hidden inefficiencies in product and regional strategy.  
 
-👉 Enabled real-time KPI monitoring and year-over-year profitability tracking for strategic decision-making
+- Analysed **8K+ orders across regions and product categories**  
+- Identified **profitability gaps across categories and geographic markets**  
+- Revealed performance imbalance between high-revenue and high-margin products  
+
+👉 Enabled more targeted product strategy and profitability optimisation  
+
 
 🔗 https://github.com/Olu-DAnalyst/Retail-Sales-Performance-Profitability
 
@@ -135,31 +139,6 @@ https://github.com/Olu-DAnalyst/nextgen-employee-retention-sql-analysis
 - Strong ability to translate data into **business decisions**  
 - Experience analysing **operations, HR, and customer data**  
 - Focus on **impact, not just dashboards**
-
----
-
-## 🔎 Core Competencies
-
-- Business Intelligence & Reporting
-- Dashboard Development (Power BI & Tableau)
-- SQL Querying & Data Extraction
-- Data Cleaning & Transformation (Power Query)
-- Data Modelling (Star Schema, ERD)
-- KPI Development & Performance Tracking
-- AI-assisted data analysis, reporting automation, and workflow optimisation
-- Stakeholder Reporting & Data Storytelling
-
-
----
-
- ## 📈 Skills Demonstrated
-
-- Data cleaning and transformation
-- Exploratory data analysis
-- Dashboard development
-- KPI design
-- Data visualization
-- Business insight generation
 
 ---
 
