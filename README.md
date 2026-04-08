@@ -27,20 +27,20 @@
 
 ## 🚀 Signature Project  
 
-### Customer Sentiment & Brand Risk Dashboard  
+  ### 📊 Retail Sales Performance & Profitability Dashboard (Power BI)
 
-![AfriTech Dashboard](images/executive-overview.png)
+  ![Retail Sales Overview](sales_overview.png)
 
-**Key Insight:**  
-High-engagement complaints drive disproportionate reputational risk and require prioritised response.  
+  **Key Insight:**
+  Multi-channel retail data consolidated into a single Power BI dashboard — revealing $57.79M profit, 37% margins, and channel-level performance gaps across retail and e-commerce.
 
-- Analysed **74K+ interactions & 38K mentions**  
-- Identified **7,000+ unresolved complaints impacting customer trust**  
-- Revealed amplification effect of **high-engagement negative sentiment**  
+- Analysed **$155M revenue across 8K+ orders** from physical stores & e-commerce platforms
+- Identified **top-performing cities, products & customers** driving revenue concentration
+- Uncovered **wholesale as dominant channel** (~55% of total revenue) with year-end sales surge
 
-👉 Enabled proactive reputation management and faster response prioritisation  
+👉 Enabled real-time KPI monitoring and year-over-year profitability tracking for strategic decision-making
 
-🔗 https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard  
+🔗 https://github.com/Olu-DAnalyst/Retail-Sales-Performance-Profitability
 
 ---
 
