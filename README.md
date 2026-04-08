@@ -29,7 +29,8 @@
 
   ### 📊 Retail Sales Performance & Profitability Dashboard (Power BI)
 
-  ![Retail Sales Overview](sales_overview.png)
+![Sales Overview](https://raw.githubusercontent.com/Olu-DAnalyst/Retail-Sales-Performance-Profitability/main/sales_overview.png)
+![Profit Analysis](https://raw.githubusercontent.com/Olu-DAnalyst/Retail-Sales-Performance-Profitability/main/profit-analysis.png)
 
   **Key Insight:**
   Multi-channel retail data consolidated into a single Power BI dashboard — revealing $57.79M profit, 37% margins, and channel-level performance gaps across retail and e-commerce.
