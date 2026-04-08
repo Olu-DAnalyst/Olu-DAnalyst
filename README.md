@@ -70,23 +70,6 @@ I bring a strong combination of **analytical thinking and business understanding
 
 ---
 
-## 👨‍💻 About Me  
-
-Data Analyst focused on delivering **insight-driven solutions that improve business performance and support strategic decision-making**.
-
-With a background in operations, finance, and administration, I bring a practical understanding of how organisations work, allowing me to analyse data with a strong commercial perspective.
-
-I specialise in:
-- Identifying trends and risks within complex datasets  
-- Building dashboards that communicate insights clearly  
-- Translating analysis into actionable recommendations  
-
-I’m driven by the goal of using data not just to report what happened, but to help organisations **understand why it happened and what to do next**.
-
-📍 Open to: **Data Analyst | BI Analyst | Reporting Analyst roles**
-
----
-
 ## ⭐ Featured Projects
 
 ### 📊 Customer Sentiment & Brand Risk Analysis (Power BI + SQL)
