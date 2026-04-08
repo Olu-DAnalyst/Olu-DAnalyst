@@ -52,8 +52,8 @@ Data Analyst focused on using data to **identify problems, explain why they happ
 My work sits at the intersection of:
 - 📊 Business Intelligence  
 - ⚙️ Operations & Performance Analysis  
-- 👥 Workforce & HR Analytics  
-
+- 👥 Workforce & HR Analytics
+  
 I approach every dataset with one question:  
 👉 *“What decision should be made from this?”*
 
