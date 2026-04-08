@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oluwasegun-balogun">
+  <a href="https://www.linkedin.com/in/oluwasegun-baloguno">   
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:segbalogun@yahoo.com">
