@@ -21,7 +21,7 @@
 
 ---
 
-## 💡 Turning data into actionable insights that improve performance and drive decisions  
+## 💡 I solve business problems with data — not just build dashboards   
 
 ---
 
