@@ -126,18 +126,6 @@ https://github.com/Olu-DAnalyst/nextgen-employee-retention-sql-analysis
 
 ---
 
-## 🧰 Tools & Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
-</p>
----
-
-
 ## 📈 What I Bring  
 
 - Strong ability to translate data into **business decisions**  
