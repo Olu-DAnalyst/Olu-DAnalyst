@@ -17,6 +17,57 @@
   </a>
 </p>
 
+
+
+---
+
+## 💡 Turning data into actionable insights that improve performance and drive decisions  
+
+---
+
+## 🚀 Signature Project  
+
+### Customer Sentiment & Brand Risk Dashboard  
+
+![AfriTech Dashboard](images/executive-overview.png)
+
+**Key Insight:**  
+High-engagement complaints drive disproportionate reputational risk and require prioritised response.  
+
+- Analysed **74K+ interactions & 38K mentions**  
+- Identified **7,000+ unresolved complaints impacting customer trust**  
+- Revealed amplification effect of **high-engagement negative sentiment**  
+
+👉 Enabled proactive reputation management and faster response prioritisation  
+
+🔗 https://github.com/Olu-DAnalyst/afritech-social-media-monitoring-dashboard  
+
+---
+
+## 👨‍💻 About Me  
+
+Data Analyst focused on delivering **insight-driven solutions that improve business performance and support decision-making**.
+
+I bring a strong combination of **analytical thinking and business understanding**, with experience across **operations, finance, and workforce analytics**.
+
+- Identify trends, risks, and inefficiencies in complex datasets  
+- Build dashboards that communicate insights clearly  
+- Translate analysis into actionable business recommendations  
+
+📍 Open to: **Data Analyst | BI Analyst | Reporting Analyst roles**
+
+---
+
+## 🧰 Tools & Technologies  
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me  
