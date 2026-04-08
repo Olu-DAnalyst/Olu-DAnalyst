@@ -148,7 +148,7 @@ https://github.com/Olu-DAnalyst/nextgen-employee-retention-sql-analysis
 
 ---
 
- 📈 Skills Demonstrated
+ ## 📈 Skills Demonstrated
 
 - Data cleaning and transformation
 - Exploratory data analysis
