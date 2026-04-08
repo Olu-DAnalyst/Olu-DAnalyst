@@ -47,16 +47,19 @@
 
 ## 👨‍💻 About Me  
 
-Data Analyst focused on delivering **insight-driven solutions that improve business performance and support decision-making**.
+Data Analyst focused on using data to **identify problems, explain why they happen, and support better decisions**.
 
-I bring a strong combination of **analytical thinking and business understanding**, with experience across **operations, finance, and workforce analytics**.
+My work sits at the intersection of:
+- 📊 Business Intelligence  
+- ⚙️ Operations & Performance Analysis  
+- 👥 Workforce & HR Analytics  
 
-- Identify trends, risks, and inefficiencies in complex datasets  
-- Build dashboards that communicate insights clearly  
-- Translate analysis into actionable business recommendations  
+I approach every dataset with one question:  
+👉 *“What decision should be made from this?”*
+
+🔍 I focus on understanding not just what the data shows, but **why it matters and what action should follow**.
 
 📍 Open to: **Data Analyst | BI Analyst | Reporting Analyst roles**
-
 ---
 
 ## 🧰 Tools & Technologies  
